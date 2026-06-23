@@ -262,8 +262,10 @@ python main.py
 5. Realizar las operaciones deseadas.
 6. Guardar los cambios o salir del programa.
 
--------------------------------------------------------------
+---
 
 ## Autor
 Nicolás Germán de Prado - DNI:40.976.550 - Comisión 8
 Trabajo Práctico Integrador – Programación I
+
+
