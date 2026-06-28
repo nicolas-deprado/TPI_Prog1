@@ -31,12 +31,16 @@ El objetivo principal del sistema es aplicar los conceptos fundamentales vistos 
 
 ## Estructura del Proyecto
 
-Proyecto/
+TPI_PROG1_DEPRADO/
 │
 ├── main.py
 ├── funciones.py
 ├── paises.csv
+├── Acceso GitHub del Repositorio.url
+├── Informe_TPI_Prog1.pdf
+├── video_TPI.mp4
 └── README.md
+
 
 ### main.py
 
@@ -267,5 +271,6 @@ python main.py
 ## Autor
 Nicolás Germán de Prado - DNI:40.976.550 - Comisión 8
 Trabajo Práctico Integrador – Programación I
+Enlace video:https://drive.google.com/file/d/10zLza3BnUGBcS5DRNSWR9HNPZJi8NYoQ/view?usp=drive_link
 
 
